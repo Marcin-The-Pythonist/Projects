@@ -1,8 +1,8 @@
-# What data have I used to create this model? 
+# What data did I use to create this model? 
   I used a Kaggle dataset: https://www.kaggle.com/datasets/kmldas/hr-employee-data-descriptive-analytics/discussion/311494
 
 # What does this model predict?
-  The model predicts, based on values tagged with the '+' sign in the *Data used for training* chapter, whether an employee might quit. 
+  Based on values tagged with the '+' sign in the *Data used for training* chapter, the model predicts whether an employee might quit. 
 
 # Data used for training
   The dataset consists of 11 columns: <br>
